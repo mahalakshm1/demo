@@ -1,3 +1,3 @@
 # demo
-first git repo
-author-Mahalakshmi
+first git repo.
+Author-Mahalakshmi
